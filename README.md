@@ -32,5 +32,4 @@ python solve.py <host> <port>
 
 ## Flag
 
-The retrieved flag is:
-`HTB{r0LL1ng-1n-t43_D33P-b0t_n3T-cRe4t10n}`
+Run the script against a live instance to retrieve the flag!
